@@ -1,7 +1,7 @@
 import random
 from collections import Counter
 
-someWords = '''fornite roblox minecraft elderring counterstrike fifa callofduty '''
+someWords = '''fornite roblox minecraft elderring counterstrike fifa callofduty valorant brawlstars subwaysurfers brainiton overwatch rdr2 mfs '''
 
 someWords = someWords.split(' ')
 word = random.choice(someWords)
